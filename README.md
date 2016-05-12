@@ -22,11 +22,11 @@ Notable JS Libraries?
 * Parsley
 * Coffeescript?
 
-​# Week 3
+# Week 3
 
 * Intro to Node and JS Task-runners: (Gulp v. Grunt)
 
-​# Week 4
+# Week 4
 
 * Intro to Data-Binding (Knockout)
 * High-level Intro to JS Frameworks
